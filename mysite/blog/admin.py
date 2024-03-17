@@ -13,4 +13,4 @@ class PostAdmin(admin.ModelAdmin):
     ordering = ['status', 'publish']
 
 
-# Страница 67.
+# Страница 80.
