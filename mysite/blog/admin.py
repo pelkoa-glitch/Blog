@@ -20,4 +20,4 @@ class CommentAdmin(admin.ModelAdmin):
     search_fields = ['name', 'email', 'body']
 
 
-# Страница 146.
+# Страница 164.
